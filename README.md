@@ -13,4 +13,4 @@ Numer albumu: 72558
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+1. Weryfikacja działania programu z zadania 3.2.1. : Program powoduje wyświetlanie określonej cyfry (od 0 do 9) z odstępem 1s.
