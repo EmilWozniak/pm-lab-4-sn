@@ -14,3 +14,5 @@ Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 1. Weryfikacja działania programu z zadania 3.2.1. : Program powoduje wyświetlanie określonej cyfry (od 0 do 9) z odstępem 1s.
+2. Weryfikacja działania programu z zadania 3.2.2. : Program cyklicznie i szybko przełącza moduły, a w danej chwili czasu jest włączony tylko jeden z pośród dostępnych. Cykliczne oraz szybkie przełączanie modułów dzięki własności bezwładności wzroku, daje złudzenie jednocześnie załączonych wszystkich modułów.
+3. Weryfikacja działania programu z zadania 3.3.1. : Program powoduje wyświetlenie wprowadzonego nazwiska do kodu programu, oraz inicjuje odliczanie od 0 wzwyż.
