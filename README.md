@@ -18,4 +18,4 @@ Grupa studencka: WEL18DE1S1
 3.  Weryfikacja działania programu z zadania 3.3.1. : Program powoduje wyświetlenie wprowadzonego nazwiska do kodu programu, oraz inicjuje odliczanie od 0 wzwyż.
 4.  Weryfikacja działania programu z zadania 3.3.2. : Program powoduje wyświetlenie na wyświetlaczu imienia, które przesuwane jest 
 w górnym wierszu od lewej do prawej strony, a następnie w dolnym wierszu od prawej do lewej.
-5.  Weryfikacja działania programu z zadania 3.3.3. : Program początkowo wyświetla wprowadzone w kodzie działanie matematyczne, które zmienia się wraz z wpisaniem nowego działania w konsoli szeregowej.
+5.  Weryfikacja działania programu z zadania 3.3.3. : Program początkowo wyświetla wprowadzone w kodzie działanie matematyczne, które zmienia się wraz z wpisaniem nowego działania w konsoli  szeregowej.
